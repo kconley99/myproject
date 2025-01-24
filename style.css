@@ -1,3 +1,25 @@
 body {
     background-color: darkcyan;
+    font-family: "Josefin Sans", serif;
+    text-align: center;
+}
+
+.subtitle {
+    color:blueviolet;
+    font-weight: 900;
+
+}
+
+#blue {
+    background-color: lightblue;
+    font-family: "Josefin Sans", serif;
+    font-size: large; 
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+    display: block;
+    max-width: 500px;
+    margin: 0 auto;
 }
